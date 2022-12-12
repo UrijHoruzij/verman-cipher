@@ -1,0 +1,17 @@
+{
+	"name": "shifr-vermana",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"build": "node-gyp build",
+		"rebuild": "node-gyp rebuild"
+	},
+	"author": "Urij Horuzij",
+	"license": "MIT",
+	"gypfile": true,
+	"devDependencies": {
+		"node-gyp": "^9.3.0"
+	}
+}
