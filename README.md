@@ -1,6 +1,6 @@
 <p align="center">
   <img src="./assets/logo.png" alt="Vernam cipher logo" width="128" height="128">
-  <h1 align="center">Vernam ciphere</h1>
+  <h1 align="center">Vernam cipher</h1>
 </p>
 <p align="center">
     <a aria-label="License" href="https://github.com/UrijHoruzij/verman-cipher/blob/master/LICENSE.md">
