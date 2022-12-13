@@ -3,7 +3,7 @@
   <h1 align="center">Vernam ciphere</h1>
 </p>
 <p align="center">
-    <a aria-label="License" href="https://github.com/UrijHoruzij/verman-cipher/LICENSE.md">
+    <a aria-label="License" href="https://github.com/UrijHoruzij/verman-cipher/blob/master/LICENSE.md">
       <img alt="GitHub" src="https://img.shields.io/github/license/UrijHoruzij/verman-cipher?color=33bdef">
     </a>
   </p>
@@ -22,4 +22,4 @@ vermanCipher.cipher('file.txt', 'cipherfile.txt', 'key.bin'));
 
 ## License
 
-Vernam cipher is released under the [MIT License](https://github.com/UrijHoruzij/verman-cipher/LICENSE.md).
+Vernam cipher is released under the [MIT License](https://github.com/UrijHoruzij/verman-cipher/blob/master/LICENSE.md).
